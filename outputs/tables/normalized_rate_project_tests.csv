@@ -1,0 +1,3 @@
+metric,group_1,group_1_n,group_1_median,group_2,group_2_n,group_2_median,mann_whitney_u,p_value,rank_biserial,holm_p_value,holm_reject_0_05
+interactions_per_100_reached,Ocean Culture,91,11.363636363636363,PsicoCampus,94,23.52941176470588,1590.0,1.6051662248276586e-13,-0.6282440963292026,1.6051662248276586e-13,True
+likes_per_100_reached,Ocean Culture,91,10.869565217391305,PsicoCampus,94,22.36111111111111,1521.0,3.799619290478499e-14,-0.6443768996960486,7.599238580956997e-14,True

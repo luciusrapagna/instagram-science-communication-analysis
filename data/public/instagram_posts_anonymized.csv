@@ -1,0 +1,188 @@
+record_id,project,publication_month,post_type,duration_seconds,views,reach,likes,shares,comments,saves,follows,total_interactions
+POST_001,Ocean Culture,2026-04,Carousel,0,296,96.0,18,1,0,0,0.0,19
+POST_002,Ocean Culture,2026-04,Carousel,0,641,383.0,35,73,2,0,6.0,110
+POST_003,Ocean Culture,2026-04,Carousel,0,612,256.0,21,3,0,1,1.0,25
+POST_004,Ocean Culture,2026-04,Carousel,0,248,72.0,20,3,0,0,1.0,23
+POST_005,Ocean Culture,2026-04,Carousel,0,450,184.0,18,1,0,0,0.0,19
+POST_006,Ocean Culture,2026-04,Carousel,0,233,70.0,21,1,1,0,0.0,23
+POST_007,Ocean Culture,2026-04,Carousel,0,449,264.0,17,2,0,0,0.0,19
+POST_008,Ocean Culture,2026-04,Carousel,0,270,71.0,15,1,0,0,0.0,16
+POST_009,Ocean Culture,2026-04,Carousel,0,393,171.0,14,5,0,0,0.0,19
+POST_010,Ocean Culture,2026-04,Carousel,0,292,132.0,12,2,0,0,0.0,14
+POST_011,Ocean Culture,2026-04,Carousel,0,223,66.0,14,2,0,0,0.0,16
+POST_012,Ocean Culture,2026-04,Carousel,0,173,54.0,14,0,0,0,0.0,14
+POST_013,Ocean Culture,2026-05,Carousel,0,229,92.0,18,2,0,0,0.0,20
+POST_014,Ocean Culture,2026-05,Image,0,151,,7,0,0,0,,7
+POST_015,Ocean Culture,2026-05,Image,0,81,40.0,5,0,0,0,0.0,5
+POST_016,Ocean Culture,2026-05,Image,0,97,38.0,6,0,0,0,0.0,6
+POST_017,Ocean Culture,2026-05,Image,0,91,38.0,7,0,0,0,0.0,7
+POST_018,Ocean Culture,2026-05,Carousel,0,204,78.0,14,1,0,1,1.0,16
+POST_019,Ocean Culture,2026-05,Image,0,92,45.0,6,0,0,0,0.0,6
+POST_020,Ocean Culture,2026-05,Image,0,84,42.0,9,0,0,0,0.0,9
+POST_021,Ocean Culture,2026-05,Image,0,100,45.0,9,0,0,0,0.0,9
+POST_022,Ocean Culture,2026-05,Carousel,0,144,53.0,10,0,0,0,0.0,10
+POST_023,Ocean Culture,2026-05,Carousel,0,184,63.0,16,0,0,0,0.0,16
+POST_024,Ocean Culture,2026-05,Image,0,143,66.0,11,0,0,0,0.0,11
+POST_025,Ocean Culture,2026-05,Image,0,75,36.0,7,0,0,1,0.0,8
+POST_026,Ocean Culture,2026-05,Image,0,78,38.0,7,0,0,0,0.0,7
+POST_027,Ocean Culture,2026-05,Image,0,84,41.0,6,0,0,0,0.0,6
+POST_028,Ocean Culture,2026-05,Carousel,0,106,45.0,7,0,0,0,0.0,7
+POST_029,Ocean Culture,2026-05,Image,0,111,51.0,7,0,0,0,0.0,7
+POST_030,Ocean Culture,2026-05,Carousel,0,136,46.0,10,3,0,0,0.0,13
+POST_031,Ocean Culture,2026-05,Image,0,90,45.0,7,0,0,0,0.0,7
+POST_032,Ocean Culture,2026-05,Carousel,0,128,48.0,15,0,0,0,0.0,15
+POST_033,Ocean Culture,2026-05,Carousel,0,146,55.0,6,0,0,0,0.0,6
+POST_034,Ocean Culture,2026-05,Image,0,95,41.0,6,0,0,0,0.0,6
+POST_035,Ocean Culture,2026-05,Image,0,125,57.0,12,0,0,0,0.0,12
+POST_036,Ocean Culture,2026-05,Image,0,101,53.0,5,0,0,0,0.0,5
+POST_037,Ocean Culture,2026-05,Image,0,193,100.0,11,1,0,0,0.0,12
+POST_038,Ocean Culture,2026-05,Image,0,115,61.0,9,0,0,0,0.0,9
+POST_039,Ocean Culture,2026-05,Image,0,95,48.0,9,0,0,0,0.0,9
+POST_040,Ocean Culture,2026-05,Image,0,96,41.0,8,0,0,0,0.0,8
+POST_041,Ocean Culture,2026-05,Image,0,134,66.0,7,0,0,0,0.0,7
+POST_042,Ocean Culture,2026-05,Image,0,112,55.0,8,0,0,0,0.0,8
+POST_043,Ocean Culture,2026-05,Image,0,128,64.0,9,1,0,0,0.0,10
+POST_044,Ocean Culture,2026-05,Image,0,87,36.0,4,1,0,0,0.0,5
+POST_045,Ocean Culture,2026-05,Image,0,122,62.0,9,0,0,0,0.0,9
+POST_046,Ocean Culture,2026-06,Image,0,76,35.0,2,0,0,0,0.0,2
+POST_047,Ocean Culture,2026-06,Image,0,107,47.0,5,0,0,0,0.0,5
+POST_048,Ocean Culture,2026-06,Image,0,91,38.0,2,0,0,0,0.0,2
+POST_049,Ocean Culture,2026-06,Image,0,148,65.0,9,1,0,0,0.0,10
+POST_050,Ocean Culture,2026-06,Image,0,112,51.0,3,0,0,0,0.0,3
+POST_051,Ocean Culture,2026-06,Image,0,91,42.0,3,0,0,0,0.0,3
+POST_052,Ocean Culture,2026-06,Image,0,96,45.0,2,0,0,0,0.0,2
+POST_053,Ocean Culture,2026-06,Image,0,94,39.0,6,0,0,0,0.0,6
+POST_054,Ocean Culture,2026-06,Carousel,0,242,101.0,15,1,0,0,0.0,16
+POST_055,Ocean Culture,2026-06,Image,0,93,42.0,3,1,0,0,0.0,4
+POST_056,Ocean Culture,2026-06,Image,0,83,37.0,4,0,0,0,0.0,4
+POST_057,Ocean Culture,2026-06,Image,0,113,56.0,3,0,0,0,0.0,3
+POST_058,Ocean Culture,2026-06,Image,0,225,132.0,12,6,0,0,1.0,18
+POST_059,Ocean Culture,2026-06,Image,0,86,44.0,5,0,0,0,0.0,5
+POST_060,Ocean Culture,2026-06,Image,0,171,89.0,4,1,0,0,0.0,5
+POST_061,Ocean Culture,2026-06,Image,0,109,60.0,5,0,0,0,0.0,5
+POST_062,Ocean Culture,2026-06,Image,0,75,39.0,2,0,0,0,0.0,2
+POST_063,Ocean Culture,2026-06,Image,0,72,44.0,2,0,0,0,0.0,2
+POST_064,Ocean Culture,2026-06,Image,0,70,41.0,2,0,0,0,0.0,2
+POST_065,Ocean Culture,2026-06,Image,0,200,97.0,5,1,0,1,0.0,7
+POST_066,Ocean Culture,2026-06,Image,0,116,55.0,6,0,1,0,0.0,7
+POST_067,Ocean Culture,2026-06,Image,0,524,,10,0,0,0,,10
+POST_068,Ocean Culture,2026-06,Image,0,223,106.0,3,1,0,0,0.0,4
+POST_069,Ocean Culture,2026-06,Image,0,105,49.0,4,0,0,0,0.0,4
+POST_070,Ocean Culture,2026-06,Image,0,194,128.0,3,1,0,0,0.0,4
+POST_071,Ocean Culture,2026-06,Image,0,93,42.0,2,0,0,0,0.0,2
+POST_072,Ocean Culture,2026-06,Image,0,67,37.0,1,0,0,0,0.0,1
+POST_073,Ocean Culture,2026-06,Image,0,82,47.0,3,0,0,0,0.0,3
+POST_074,Ocean Culture,2026-06,Image,0,97,40.0,5,0,0,0,0.0,5
+POST_075,Ocean Culture,2026-06,Image,0,79,43.0,7,0,0,0,0.0,7
+POST_076,Ocean Culture,2026-06,Image,0,78,46.0,5,0,0,0,0.0,5
+POST_077,Ocean Culture,2026-06,Image,0,81,44.0,3,0,0,0,0.0,3
+POST_078,Ocean Culture,2026-06,Image,0,160,90.0,1,2,0,0,0.0,3
+POST_079,Ocean Culture,2026-06,Image,0,127,70.0,2,1,0,0,0.0,3
+POST_080,Ocean Culture,2026-06,Image,0,132,61.0,4,1,0,0,0.0,5
+POST_081,Ocean Culture,2026-06,Image,0,138,78.0,7,1,0,0,0.0,8
+POST_082,Ocean Culture,2026-06,Image,0,267,165.0,0,2,0,0,0.0,2
+POST_083,Ocean Culture,2026-06,Image,0,128,64.0,3,0,0,0,0.0,3
+POST_084,Ocean Culture,2026-06,Image,0,109,61.0,4,0,0,0,0.0,4
+POST_085,Ocean Culture,2026-06,Image,0,273,192.0,0,1,0,0,0.0,1
+POST_086,Ocean Culture,2026-06,Reel,5,218,175.0,1,0,0,0,0.0,1
+POST_087,Ocean Culture,2026-06,Image,0,104,51.0,4,0,1,0,0.0,5
+POST_088,Ocean Culture,2026-06,Image,0,163,106.0,4,1,0,0,0.0,5
+POST_089,Ocean Culture,2026-06,Image,0,115,60.0,5,0,0,0,0.0,5
+POST_090,Ocean Culture,2026-06,Image,0,840,486.0,23,13,1,1,3.0,38
+POST_091,Ocean Culture,2026-06,Image,0,1341,887.0,28,14,3,1,4.0,46
+POST_092,Ocean Culture,2026-06,Carousel,0,542,206.0,33,0,1,0,0.0,34
+POST_093,Ocean Culture,2026-07,Image,0,115,58.0,11,0,0,0,0.0,11
+POST_094,PsicoCampus,2026-04,Image,0,205,70.0,26,0,0,0,1.0,26
+POST_095,PsicoCampus,2026-04,Carousel,0,126,58.0,24,2,0,0,0.0,26
+POST_096,PsicoCampus,2026-04,Carousel,0,175,60.0,22,0,0,0,0.0,22
+POST_097,PsicoCampus,2026-04,Carousel,0,125,48.0,20,0,0,0,0.0,20
+POST_098,PsicoCampus,2026-04,Carousel,0,155,54.0,22,1,1,0,0.0,24
+POST_099,PsicoCampus,2026-04,Carousel,0,256,134.0,22,4,0,0,0.0,26
+POST_100,PsicoCampus,2026-04,Carousel,0,202,76.0,20,0,0,0,0.0,20
+POST_101,PsicoCampus,2026-04,Carousel,0,597,290.0,41,3,1,1,2.0,46
+POST_102,PsicoCampus,2026-04,Carousel,0,283,111.0,32,1,2,1,0.0,36
+POST_103,PsicoCampus,2026-04,Carousel,0,259,128.0,23,1,0,0,2.0,24
+POST_104,PsicoCampus,2026-04,Carousel,0,181,67.0,24,0,0,0,0.0,24
+POST_105,PsicoCampus,2026-04,Carousel,0,207,93.0,23,2,0,0,0.0,25
+POST_106,PsicoCampus,2026-04,Carousel,0,233,101.0,24,17,1,0,0.0,42
+POST_107,PsicoCampus,2026-04,Reel,21,618,384.0,32,1,0,0,1.0,33
+POST_108,PsicoCampus,2026-04,Carousel,0,217,64.0,28,0,0,0,0.0,28
+POST_109,PsicoCampus,2026-04,Carousel,0,587,307.0,32,6,0,0,4.0,38
+POST_110,PsicoCampus,2026-04,Reel,27,177,98.0,13,0,0,0,0.0,13
+POST_111,PsicoCampus,2026-04,Carousel,0,147,55.0,16,1,0,0,0.0,17
+POST_112,PsicoCampus,2026-04,Carousel,0,101,41.0,13,0,0,0,0.0,13
+POST_113,PsicoCampus,2026-04,Carousel,0,139,54.0,17,0,0,0,0.0,17
+POST_114,PsicoCampus,2026-04,Carousel,0,116,50.0,17,0,0,0,0.0,17
+POST_115,PsicoCampus,2026-04,Carousel,0,272,108.0,26,33,2,0,0.0,61
+POST_116,PsicoCampus,2026-04,Carousel,0,129,49.0,16,0,0,0,0.0,16
+POST_117,PsicoCampus,2026-04,Reel,66,181,110.0,14,2,0,0,0.0,16
+POST_118,PsicoCampus,2026-04,Carousel,0,145,53.0,18,0,0,0,0.0,18
+POST_119,PsicoCampus,2026-04,Carousel,0,161,58.0,16,0,0,0,1.0,16
+POST_120,PsicoCampus,2026-04,Reel,29,217,132.0,12,0,0,0,0.0,12
+POST_121,PsicoCampus,2026-04,Reel,16,261,160.0,16,1,0,1,0.0,18
+POST_122,PsicoCampus,2026-04,Reel,29,294,179.0,16,0,0,0,0.0,16
+POST_123,PsicoCampus,2026-04,Reel,66,173,112.0,14,0,0,0,0.0,14
+POST_124,PsicoCampus,2026-04,Carousel,0,153,55.0,13,0,0,0,0.0,13
+POST_125,PsicoCampus,2026-04,Carousel,0,146,65.0,11,0,0,0,0.0,11
+POST_126,PsicoCampus,2026-05,Carousel,0,153,66.0,12,0,0,0,0.0,12
+POST_127,PsicoCampus,2026-05,Reel,84,292,214.0,10,1,0,1,0.0,12
+POST_128,PsicoCampus,2026-05,Carousel,0,189,73.0,13,1,0,0,1.0,14
+POST_129,PsicoCampus,2026-05,Reel,69,68,39.0,6,0,0,0,0.0,6
+POST_130,PsicoCampus,2026-05,Reel,26,217,165.0,14,0,0,0,0.0,14
+POST_131,PsicoCampus,2026-05,Reel,60,87,40.0,10,0,0,0,0.0,10
+POST_132,PsicoCampus,2026-05,Carousel,0,239,80.0,18,1,6,0,2.0,25
+POST_133,PsicoCampus,2026-05,Carousel,0,137,51.0,12,0,0,0,0.0,12
+POST_134,PsicoCampus,2026-05,Carousel,0,255,79.0,16,0,3,0,0.0,19
+POST_135,PsicoCampus,2026-05,Image,0,133,59.0,14,0,2,0,0.0,16
+POST_136,PsicoCampus,2026-05,Carousel,0,177,71.0,17,1,0,1,0.0,19
+POST_137,PsicoCampus,2026-05,Carousel,0,182,67.0,14,0,0,0,0.0,14
+POST_138,PsicoCampus,2026-05,Reel,31,161,97.0,16,0,0,0,0.0,16
+POST_139,PsicoCampus,2026-05,Carousel,0,179,56.0,13,0,0,0,0.0,13
+POST_140,PsicoCampus,2026-05,Reel,57,109,66.0,11,0,0,0,0.0,11
+POST_141,PsicoCampus,2026-05,Carousel,0,50,21.0,6,0,0,0,0.0,6
+POST_142,PsicoCampus,2026-05,Carousel,0,59,27.0,8,0,0,0,0.0,8
+POST_143,PsicoCampus,2026-05,Carousel,0,181,105.0,16,1,1,0,0.0,18
+POST_144,PsicoCampus,2026-05,Carousel,0,67,24.0,8,0,0,0,0.0,8
+POST_145,PsicoCampus,2026-05,Carousel,0,68,25.0,9,0,1,0,0.0,10
+POST_146,PsicoCampus,2026-05,Carousel,0,78,28.0,7,0,1,0,0.0,8
+POST_147,PsicoCampus,2026-05,Carousel,0,74,24.0,10,0,1,0,0.0,11
+POST_148,PsicoCampus,2026-05,Reel,78,72,46.0,8,0,0,0,0.0,8
+POST_149,PsicoCampus,2026-05,Carousel,0,123,42.0,9,0,1,0,0.0,10
+POST_150,PsicoCampus,2026-05,Carousel,0,92,31.0,8,0,1,0,0.0,9
+POST_151,PsicoCampus,2026-05,Carousel,0,68,24.0,7,0,1,0,0.0,8
+POST_152,PsicoCampus,2026-05,Reel,23,144,82.0,8,0,0,0,0.0,8
+POST_153,PsicoCampus,2026-05,Carousel,0,118,33.0,11,0,1,0,0.0,12
+POST_154,PsicoCampus,2026-05,Carousel,0,149,60.0,13,1,1,0,0.0,15
+POST_155,PsicoCampus,2026-05,Reel,54,78,45.0,10,0,0,0,0.0,10
+POST_156,PsicoCampus,2026-05,Image,0,64,36.0,10,0,0,0,0.0,10
+POST_157,PsicoCampus,2026-05,Image,0,68,34.0,8,0,0,0,0.0,8
+POST_158,PsicoCampus,2026-05,Image,0,138,63.0,9,0,0,0,0.0,9
+POST_159,PsicoCampus,2026-05,Carousel,0,88,35.0,7,0,0,0,0.0,7
+POST_160,PsicoCampus,2026-05,Image,0,58,29.0,6,1,0,0,0.0,7
+POST_161,PsicoCampus,2026-05,Carousel,0,86,39.0,10,0,0,0,0.0,10
+POST_162,PsicoCampus,2026-05,Carousel,0,74,26.0,6,0,0,0,0.0,6
+POST_163,PsicoCampus,2026-05,Image,0,77,36.0,8,0,0,0,0.0,8
+POST_164,PsicoCampus,2026-05,Image,0,78,39.0,7,0,0,0,0.0,7
+POST_165,PsicoCampus,2026-05,Image,0,120,49.0,12,0,0,0,0.0,12
+POST_166,PsicoCampus,2026-05,Carousel,0,177,56.0,16,0,1,0,0.0,17
+POST_167,PsicoCampus,2026-05,Carousel,0,106,38.0,7,0,0,0,0.0,7
+POST_168,PsicoCampus,2026-05,Reel,23,136,95.0,7,0,0,0,0.0,7
+POST_169,PsicoCampus,2026-05,Image,0,78,36.0,9,0,0,0,0.0,9
+POST_170,PsicoCampus,2026-05,Image,0,111,52.0,14,0,0,0,0.0,14
+POST_171,PsicoCampus,2026-05,Image,0,80,41.0,14,0,0,0,0.0,14
+POST_172,PsicoCampus,2026-06,Image,0,74,36.0,5,0,0,0,0.0,5
+POST_173,PsicoCampus,2026-06,Image,0,61,32.0,6,0,0,0,0.0,6
+POST_174,PsicoCampus,2026-06,Image,0,61,30.0,5,0,0,0,0.0,5
+POST_175,PsicoCampus,2026-06,Image,0,73,32.0,4,0,0,0,0.0,4
+POST_176,PsicoCampus,2026-06,Image,0,74,37.0,7,0,0,0,0.0,7
+POST_177,PsicoCampus,2026-06,Image,0,47,30.0,6,0,0,0,0.0,6
+POST_178,PsicoCampus,2026-06,Image,0,52,29.0,5,0,0,0,0.0,5
+POST_179,PsicoCampus,2026-06,Carousel,0,74,31.0,12,0,0,0,0.0,12
+POST_180,PsicoCampus,2026-06,Image,0,97,45.0,6,0,0,0,0.0,6
+POST_181,PsicoCampus,2026-06,Image,0,63,37.0,9,0,0,0,0.0,9
+POST_182,PsicoCampus,2026-06,Image,0,49,26.0,6,0,0,0,0.0,6
+POST_183,PsicoCampus,2026-06,Reel,37,149,95.0,19,0,2,0,2.0,21
+POST_184,PsicoCampus,2026-06,Reel,50,213,176.0,13,1,0,0,0.0,14
+POST_185,PsicoCampus,2026-06,Reel,59,221,119.0,21,1,3,0,0.0,25
+POST_186,PsicoCampus,2026-06,Reel,49,165,77.0,12,1,1,0,0.0,14
+POST_187,PsicoCampus,2026-06,Reel,57,233,145.0,7,0,0,0,0.0,7

@@ -1,0 +1,27 @@
+# Python environment and cache
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Editors and operating system
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Raw and potentially identifiable data
+data/raw/
+data/processed/instagram_posts.csv
+
+# Temporary files
+*.tmp
+*.log
+~$*
+
+# Keep reproducible tables and figures
+!outputs/tables/
+!outputs/figures/
+
+# Public anonymized dataset is intentionally versioned
+!data/public/
+!data/public/instagram_posts_anonymized.csv

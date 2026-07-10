@@ -1,0 +1,9 @@
+metric,valid_n,missing_n,zero_n,zero_percent_valid,negative_n
+views,187,0,0,0.0,0
+reach,185,2,0,0.0,0
+likes,187,0,2,1.06951871657754,0
+shares,187,0,129,68.98395721925134,0
+comments,187,0,159,85.02673796791443,0
+saves,187,0,176,94.11764705882352,0
+follows,185,2,169,91.35135135135135,0
+total_interactions,187,0,0,0.0,0
