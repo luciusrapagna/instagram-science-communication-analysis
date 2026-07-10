@@ -5,6 +5,7 @@ type: software
 version: 1.0.0
 date-released: 2026-07-10
 repository-code: "https://github.com/luciusrapagna/instagram-science-communication-analysis"
+doi: "10.5281/zenodo.21302521"
 authors:
   - family-names: "Rapagnã"
     given-names: "Luciano"

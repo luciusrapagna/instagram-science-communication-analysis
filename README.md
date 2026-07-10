@@ -1,5 +1,7 @@
 # Instagram Science Communication in Curricularized University Extension
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21302521.svg)](https://doi.org/10.5281/zenodo.21302521)
+
 This repository contains the anonymized data, reproducible analysis scripts,
 tables, and figures supporting a study of Instagram-based science communication
 in two curricularized university extension projects in Brazil.
@@ -122,5 +124,5 @@ International License (CC BY 4.0). See `LICENSE` and `DATA_LICENSE.md`.
 
 ## Citation
 
-Citation metadata are provided in `CITATION.cff`. A version-specific DOI will
-be added after the GitHub repository is archived through Zenodo.
+Citation metadata are provided in `CITATION.cff`. Version 1.0.0 is permanently
+archived at https://doi.org/10.5281/zenodo.21302521.
