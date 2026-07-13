@@ -74,6 +74,7 @@ framework/
 |   |-- CPIF_layers.md
 |   |-- CPIF_interpretation_rules.md
 |   |-- CPIF_reporting_checklist.md
+|   |-- CPIF_external_review_form.md
 |   |-- CPIF_figure_caption.md
 |   `-- CPIF_version_history.md
 |-- figures/
@@ -84,6 +85,10 @@ framework/
 |   `-- validate_cpif_structure.py
 `-- outputs/
 ```
+
+## External scientific review
+
+A structured review instrument is available in [CPIF_external_review_form.md](docs/CPIF_external_review_form.md). Independent reviewers should assess the framework version and commit identified in the form, declare relevant expertise and conflicts of interest, distinguish essential from recommended revisions, and provide an overall recommendation. Completed reviews and documented author responses should be preserved subject to reviewer consent and privacy requirements.
 
 ## Provisional citation
 

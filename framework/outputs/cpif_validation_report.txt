@@ -1,9 +1,9 @@
 CPIF STRUCTURE VALIDATION REPORT
 ========================================
-Generated: 2026-07-13T17:08:49.027237+00:00
+Generated: 2026-07-13T17:43:16.242771+00:00
 Framework directory: C:\Users\LUCIANO\Documents\Pesquisa\SAQUA\instagram-science-communication-analysis\framework
 Overall status: PASS
-Checks passed: 28
+Checks passed: 29
 Checks failed: 0
 
 DETAILED RESULTS
@@ -15,6 +15,7 @@ DETAILED RESULTS
 [PASS] Required file exists: docs/CPIF_layers.md
 [PASS] Required file exists: docs/CPIF_interpretation_rules.md
 [PASS] Required file exists: docs/CPIF_reporting_checklist.md
+[PASS] Required file exists: docs/CPIF_external_review_form.md
 [PASS] Required file exists: docs/CPIF_figure_caption.md
 [PASS] Required file exists: docs/CPIF_version_history.md
 [PASS] Required file exists: scripts/generate_cpif_figure.py

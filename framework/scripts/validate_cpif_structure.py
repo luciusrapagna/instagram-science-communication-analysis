@@ -19,6 +19,7 @@ REQUIRED_FILES = [
     "docs/CPIF_layers.md",
     "docs/CPIF_interpretation_rules.md",
     "docs/CPIF_reporting_checklist.md",
+    "docs/CPIF_external_review_form.md",
     "docs/CPIF_figure_caption.md",
     "docs/CPIF_version_history.md",
     "scripts/generate_cpif_figure.py",
