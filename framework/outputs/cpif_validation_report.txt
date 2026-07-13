@@ -1,0 +1,38 @@
+CPIF STRUCTURE VALIDATION REPORT
+========================================
+Generated: 2026-07-13T16:11:17.693303+00:00
+Framework directory: C:\Users\LUCIANO\Documents\Pesquisa\SAQUA\instagram-science-communication-analysis\framework
+Overall status: PASS
+Checks passed: 28
+Checks failed: 0
+
+DETAILED RESULTS
+----------------------------------------
+[PASS] Required file exists: README.md
+[PASS] Required file exists: LICENSES.md
+[PASS] Required file exists: docs/CPIF_conceptual_framework.md
+[PASS] Required file exists: docs/CPIF_principles.md
+[PASS] Required file exists: docs/CPIF_layers.md
+[PASS] Required file exists: docs/CPIF_interpretation_rules.md
+[PASS] Required file exists: docs/CPIF_reporting_checklist.md
+[PASS] Required file exists: docs/CPIF_figure_caption.md
+[PASS] Required file exists: docs/CPIF_version_history.md
+[PASS] Required file exists: scripts/generate_cpif_figure.py
+[PASS] Required file exists: scripts/validate_cpif_structure.py
+[PASS] Required file exists: figures/source/generate_cpif_figure.py
+[PASS] Required file exists: figures/publication/cpif_conceptual_framework.svg
+[PASS] Required file exists: figures/publication/cpif_conceptual_framework.pdf
+[PASS] Required file exists: figures/publication/cpif_conceptual_framework.png
+[PASS] No empty files detected
+[PASS] Five CPIF principles present: found 5
+[PASS] Six CPIF layers present: found 6
+[PASS] Required concept present: communication exposure
+[PASS] Required concept present: communication interaction
+[PASS] Required concept present: communication effectiveness
+[PASS] CPIF name is consistent in: README.md
+[PASS] CPIF name is consistent in: docs/CPIF_conceptual_framework.md
+[PASS] CPIF name is consistent in: docs/CPIF_principles.md
+[PASS] CPIF name is consistent in: docs/CPIF_layers.md
+[PASS] CPIF name is consistent in: docs/CPIF_interpretation_rules.md
+[PASS] Provisional MIT License designation is present
+[PASS] Provisional CC BY 4.0 designation is present
