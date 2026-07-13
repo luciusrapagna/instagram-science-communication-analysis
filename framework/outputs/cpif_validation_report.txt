@@ -1,6 +1,6 @@
 CPIF STRUCTURE VALIDATION REPORT
 ========================================
-Generated: 2026-07-13T16:11:17.693303+00:00
+Generated: 2026-07-13T17:08:49.027237+00:00
 Framework directory: C:\Users\LUCIANO\Documents\Pesquisa\SAQUA\instagram-science-communication-analysis\framework
 Overall status: PASS
 Checks passed: 28

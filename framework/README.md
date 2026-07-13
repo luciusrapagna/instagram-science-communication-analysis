@@ -1,21 +1,21 @@
 # Communication Performance Interpretation Framework (CPIF)
 
-**Version:** 1.0.0-draft··
+**Version:** 1.0.0-draft
 **Status:** Proposed framework under development
 
 ## Purpose
 
-The Communication Performance Interpretation Framework (CPIF) is a platform-independent, statistically grounded approach for interpreting platform-recorded metrics from university science-communication initiatives. It addresses a recurring methodological problem: digital communication studies often report isolated counts without separating the processes represented by those counts, accounting for context, or communicating statistical uncertainty.
+The Communication Performance Interpretation Framework (CPIF) is a proposed, platform-independent, conceptually structured, and statistically explicit approach for interpreting platform-recorded metrics from university science-communication initiatives. It addresses a recurring methodological problem: digital communication studies often report isolated counts without separating the processes represented by those counts, accounting for context, or communicating statistical uncertainty.
 
 CPIF does not produce a universal score. It organizes evidence across communication context, metric meaning, data preparation, statistical integration, contextual interpretation, and evidence-informed decision support.
 
 ## Core concepts
 
 - **Communication exposure** describes distribution and visibility, such as views, reach, impressions, and video plays.
-- **Communication interaction** describes observable actions following exposure, such as likes, comments, shares, saves, follows, and clicks.
+- **Communication interaction** describes observable platform-recorded actions associated with content exposure, such as likes, comments, shares, and saves. Follows and clicks require context-specific classification because they may primarily represent audience growth or navigation behaviour.
 - **Communication effectiveness** describes educational, cognitive, attitudinal, behavioural, dialogical, or social outcomes, such as learning, scientific literacy, trust in science, behavioural change, participation, and societal impact.
 
-CPIF directly evaluates exposure and interaction when valid platform data are available. Platform metrics are proxies of communication processes and are not direct measures of effectiveness.
+CPIF structures the assessment and interpretation of platform-recorded evidence about communication exposure and interaction when metric definitions and data quality are adequate. These indicators remain proxies of communication processes and are not direct measures of effectiveness.
 
 ## Principles
 
@@ -44,7 +44,7 @@ The framework has not been externally validated. It does not establish causal ef
 
 ## Initial empirical application
 
-The first empirical demonstration uses 187 Instagram posts from two curricular university extension projects, Ocean Culture and PsicoCampus. It examines views, reach, likes, comments, shares, saves, follows, total interactions, interactions per 100 accounts reached, likes per 100 accounts reached, project-stratified and post-format comparisons, rank-biserial effect sizes, Holm correction, Spearman correlations, sensitivity analysis, and Open Science practices. This initial application is a proof of concept, not definitive validation, and Instagram is not the boundary of CPIF.
+The first empirical demonstration uses 187 Instagram posts from two curricular university extension projects, Ocean Culture and PsicoCampus. It examines views, reach, likes, comments, shares, saves, follows, total interactions, interactions per 100 accounts reached, likes per 100 accounts reached, project-stratified and post-format comparisons, rank-biserial effect sizes, Holm correction, Spearman correlations, sensitivity analysis, and Open Science practices. The reach-normalized indicators represent recorded action events per 100 accounts reached; they are not percentages or proportions of users and may exceed 100 when accounts can generate multiple events. This initial application is a proof of concept, not definitive validation, and Instagram is not the boundary of CPIF.
 
 ## Reproducing the figure
 

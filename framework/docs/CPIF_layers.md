@@ -63,7 +63,7 @@ To identify, define, and classify the metrics recorded by the digital platform a
 
 ### Processes
 
-Each metric is assigned an operational definition and classified into one or more analytically relevant groups:
+Each metric is assigned an operational definition and a justified primary analytical role. Secondary roles may be recorded when a metric plausibly represents more than one process:
 
 - Exposure
 - Interaction
@@ -72,7 +72,7 @@ Each metric is assigned an operational definition and classified into one or mor
 - Navigation or click behaviour
 - Other platform-specific indicators
 
-The primary analytical role of each metric should be explicit. When a metric may represent more than one process, the ambiguity and classification decision must be documented.
+The primary analytical role of each metric should be explicit. When a metric may represent more than one process, any secondary role, ambiguity, attribution window, and classification decision must be documented.
 
 ### Outputs
 
@@ -96,7 +96,7 @@ Report the platform-specific name, operational definition, communication-process
 
 ### Application to the current study
 
-In the initial Instagram application, views and reach are classified as exposure metrics. Likes, comments, shares, saves, and follows are retained as distinct interaction metrics according to the study definitions. Total interactions is documented as a derived variable rather than an independent platform construct. Any ambiguity in counting units or metric definitions must remain explicit in the interpretation.
+In the initial Instagram application, views and reach are classified as exposure metrics. Likes, comments, shares, and saves are retained as distinct interaction metrics. Follows are retained as recorded actions and assigned a primary classification according to the study definition, while their potential audience-growth role and attribution window remain explicit. Total interactions is documented as a derived variable rather than an independent platform construct. Any ambiguity in counting units or metric definitions must remain explicit in the interpretation.
 
 ## Layer 3 — Metric Preparation and Standardization
 
@@ -153,7 +153,7 @@ Report all cleaning rules, exclusions, missing-data decisions, variable transfor
 
 ### Application to the current study
 
-The initial application preserves the platform-recorded metrics and derives total interactions, interactions per 100 accounts reached, and likes per 100 accounts reached. Reach-normalized indicators are calculated only when the reach denominator is valid. Project and post-format classifications are retained for stratified analyses, and data preparation is documented without modifying the original source data.
+The initial application preserves the platform-recorded metrics and derives total interactions, interactions per 100 accounts reached, and likes per 100 accounts reached. Reach-normalized indicators are calculated only when the reach denominator is valid. They quantify recorded action events per 100 accounts reached, are not interpreted as percentages or proportions of users, and may exceed 100 when multiple events per account are possible. Project and post-format classifications are retained for stratified analyses, and data preparation is documented without modifying the original source data.
 
 ## Layer 4 — Statistical Integration
 
@@ -164,7 +164,7 @@ To integrate descriptive and inferential evidence using statistical methods appr
 ### Inputs
 
 - Audited raw and normalized analytical outcomes
-- Research questions and analysis plan
+- Research questions, estimands or descriptive targets, and analysis plan
 - Group and stratification variables
 - Sample sizes and distributional characteristics
 - Information about clustering or repeated observations
@@ -197,7 +197,7 @@ CPIF does not prescribe a fixed set of tests. Methods must be selected according
 
 ### Methodological decisions
 
-Researchers must select methods that match the scale and distribution of each outcome, determine whether observations can be treated as independent, define inferential families for multiplicity control, choose effect-size measures, and specify sensitivity analyses that address plausible analytical vulnerabilities.
+Researchers must define each estimand or descriptive target, select methods that match the scale and distribution of each outcome, determine whether observations can be treated as independent, define inferential families for multiplicity control, choose effect-size and uncertainty measures, and specify sensitivity analyses that address plausible analytical vulnerabilities.
 
 ### Interpretation risks
 
@@ -205,7 +205,7 @@ Inappropriate tests, ignored dependence, selective reporting, small or imbalance
 
 ### Minimum reporting requirements
 
-Report the analytical rationale, statistical methods, assumptions, group sizes, effect-size definitions, confidence intervals when estimable, multiplicity procedures, association measures, sensitivity analyses, software and versions, and any deviations from the analysis plan.
+Report the analytical rationale, estimands or descriptive targets, statistical methods, assumptions, group sizes, effect-size definitions, uncertainty intervals for inferential claims or a justification for their omission, multiplicity procedures, association measures, sensitivity analyses, software and versions, and any deviations from the analysis plan.
 
 ### Application to the current study
 

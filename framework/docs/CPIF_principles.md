@@ -26,7 +26,7 @@ A publication may achieve broad reach but generate few observable interactions, 
 
 ### Application to the current study
 
-In the initial Instagram application, views and reach represent exposure, whereas likes, comments, shares, saves, follows, and derived interaction indicators represent interaction. These dimensions are analysed separately before a contextualized interpretation is developed.
+In the initial Instagram application, views and reach represent exposure, whereas likes, comments, shares, and saves represent interaction. Follows are retained as recorded actions and classified according to the study definition, while their potential audience-growth meaning remains explicit. Derived interaction indicators are documented separately. These dimensions are analysed before a contextualized interpretation is developed.
 ## Principle 2 — Platform metrics represent distinct communication processes
 
 ### Definition
@@ -51,7 +51,7 @@ Impressions may count repeated displays of content, whereas reach may estimate u
 
 ### Application to the current study
 
-In the initial Instagram application, views and reach are classified as exposure metrics. Likes, comments, shares, saves, and follows are retained as distinct recorded actions, while total interactions and reach-normalized indicators are documented as derived analytical variables.
+In the initial Instagram application, views and reach are classified as exposure metrics. Likes, comments, shares, and saves are classified as interaction metrics. Follows are retained as distinct recorded actions with a documented primary classification and acknowledgement of their potential audience-growth role. Total interactions and reach-normalized indicators are documented as derived analytical variables.
 ## Principle 3 — Statistical interpretation should extend beyond descriptive reporting
 
 ### Definition
@@ -64,7 +64,7 @@ Counts, percentages, medians, and distributions describe the observed sample but
 
 ### Analytical implication
 
-Researchers should select methods according to the study design, distribution of the data, sample structure, number of groups, dependence between observations, and analytical objectives. Where appropriate, analyses should report effect sizes, confidence intervals, multiplicity control, associations, and sensitivity or robustness assessments rather than relying only on p-values.
+Researchers should prespecify the estimand or descriptive target and select methods according to the study design, distribution of the data, sample structure, number of groups, dependence between observations, and analytical objectives. Analyses should report effect sizes and uncertainty when inferential claims are made, apply multiplicity control when warranted, and use association, sensitivity, or robustness assessments where appropriate rather than relying only on p-values.
 
 ### Common error avoided
 
@@ -126,4 +126,4 @@ A widely shared science-communication post may have achieved substantial distrib
 
 ### Application to the current study
 
-The initial Instagram application directly evaluates platform-recorded exposure and interaction. It does not measure learning, scientific literacy, trust, behavioural change, community participation, or societal impact. The findings must therefore be interpreted as communication-performance evidence rather than evidence of communication effectiveness.
+The initial Instagram application assesses and interprets platform-recorded evidence about exposure and interaction. These indicators remain proxies of communication processes. The application does not measure learning, scientific literacy, trust, behavioural change, community participation, or societal impact. The findings must therefore be interpreted as communication-performance evidence rather than evidence of communication effectiveness.
