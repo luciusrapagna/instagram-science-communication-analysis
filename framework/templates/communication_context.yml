@@ -1,0 +1,15 @@
+project_name: ""
+communication_objective: ""
+target_audience: ""
+platform: "Instagram"
+accounts: []
+observation_period:
+  start: ""
+  end: ""
+publication_frequency: ""
+distribution:
+  organic: true
+  paid: false
+content_themes: []
+content_formats: []
+comparability_constraints: []

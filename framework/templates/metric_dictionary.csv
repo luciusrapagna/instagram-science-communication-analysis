@@ -1,0 +1,8 @@
+metric,cpif_class,platform_definition,unit,numerator,denominator,interpretive_limit
+views,exposure,Total recorded content views,count,,,Does not demonstrate comprehension or impact
+reach,exposure,Unique accounts reached,count,,,Does not demonstrate attention or learning
+likes,interaction,Recorded likes,count,,,Low-effort interaction with ambiguous meaning
+comments,interaction,Recorded comments,count,,,Content and valence require qualitative analysis
+shares,interaction,Recorded shares count,count,,,Motivation and recipient exposure are unknown
+saves,interaction,Recorded saves count,count,,,May indicate future-use intention but not confirmed use
+follows,audience_growth,New follows attributed by platform,count,,,Does not demonstrate sustained engagement
